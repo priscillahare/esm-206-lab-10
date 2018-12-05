@@ -1,6 +1,6 @@
 ---
 title: "ESM 206 Lab 10"
-author: "YOUR NAME HERE"
+author: "Priscilla Hare"
 date: "December 3, 2018"
 output: html_document
 ---
